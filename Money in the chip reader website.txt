@@ -1,0 +1,10 @@
+<DOCTYPE! html>
+<html>
+<title>PCITCR.com</title>
+<div>
+<h1>Putting Money in the Chip Reader</h1>
+</div>
+<body>
+</h4>This website is dedicated to puting money into chip readers. Enjoy or die.</h4>
+</body>
+</html>
